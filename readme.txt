@@ -1,5 +1,3 @@
-Michał Warszawski kl. 4ic
-
 === WYKONANA CZĘŚĆ PROJEKTU ===
  Od strony kodu:
 	 - zastosowanie obiektowości wraz z typowaniem 
